@@ -125,7 +125,7 @@ public class CadastroApp {
 			System.out.print("Digite a opção: ");
 			op = Read.readInt();
 		}
-		System.out.print("*** FIM ***");
+		System.out.println("*** FIM ***");
 		System.out.print("*** *** ***");
 
 		// pilha1.push(cad1); // push items
