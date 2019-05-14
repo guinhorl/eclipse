@@ -126,6 +126,7 @@ public class CadastroApp {
 			op = Read.readInt();
 		}
 		System.out.print("*** FIM ***");
+		System.out.print("*** *** ***");
 
 		// pilha1.push(cad1); // push items
 
