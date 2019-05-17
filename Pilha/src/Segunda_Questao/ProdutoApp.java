@@ -1,6 +1,10 @@
 package Segunda_Questao;
 
 public class ProdutoApp {
+	/**
+	 * 
+	 * @author Wagner Ramos Lima
+	 */
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -114,7 +118,7 @@ public class ProdutoApp {
 					lista.displayLink();
 				break;
 			}
-			case 4: // Informa quanto resta
+			case 4: // Informa RELATÓRIO FINAL
 			{
 				
 				System.out.println("============================");				

@@ -1,6 +1,10 @@
 package Terceira_Questao;
 
 public class DocumentoApp {
+	/**
+	 * 
+	 * @author Wagner Ramos Lima
+	 */
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

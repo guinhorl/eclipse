@@ -3,7 +3,8 @@ import java.text.SimpleDateFormat;
 public class CadastroApp {
 
 	/**
-	 * @param args
+	 * 
+	 * @author Wagner Ramos Lima
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
